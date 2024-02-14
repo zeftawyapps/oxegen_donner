@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xxhdpi/lock-icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login" transform="translate(-350.000000, -626.000000)">
+            <g id="Group-3" transform="translate(23.000000, 612.000000)">
+                <g id="lock-icon" transform="translate(327.000000, 14.000000)">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M7,10 L20,10 C20.5522847,10 21,10.4477153 21,11 L21,21 C21,21.5522847 20.5522847,22 20,22 L4,22 C3.44771525,22 3,21.5522847 3,21 L3,11 C3,10.4477153 3.44771525,10 4,10 L5,10 L5,9 C4.99882823,5.75266348 7.23114645,2.93090705 10.3915994,2.1847618 C13.5520524,1.43861655 16.8106844,2.96402513 18.262,5.869 L16.473,6.763 C15.4363806,4.68775448 13.1085325,3.59804345 10.8508804,4.13117633 C8.59322835,4.6643092 6.9987648,6.68025386 7,9 L7,10 Z M5,12 L5,20 L19,20 L19,12 L5,12 Z M14,15 L10,15 L10,17 L14,17 L14,15 Z" id="Shape" fill="#267E64"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

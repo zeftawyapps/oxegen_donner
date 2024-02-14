@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953004919936",
+    "project_id": "oxygen-88b46",
+    "storage_bucket": "oxygen-88b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953004919936:android:06f185bf9814b61a532a65",
+        "android_client_info": {
+          "package_name": "com.z_apps.oxegen_donner.oxegen_donner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953004919936-t259bvsu8f21cq5l889pfv2ucm799ov7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSjdmtQAo2Q8IT-NaraX6t4jRkcpSpHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953004919936-t259bvsu8f21cq5l889pfv2ucm799ov7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
